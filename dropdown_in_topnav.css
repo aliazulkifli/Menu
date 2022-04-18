@@ -1,3 +1,7 @@
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* Navbar container */
 .navbar {
     overflow: hidden;
@@ -67,3 +71,4 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+  </style>
